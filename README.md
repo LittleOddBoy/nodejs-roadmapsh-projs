@@ -4,5 +4,6 @@ The roadmap.sh is somewhere that you can find any roadmap you want and start you
 here, I've got a list of all the projects that I wrote with Node.js (and mostly TypeScript) and are related to the projects of the roadmap.sh:
 1. [Doer CLI](https://github.com/LittleOddBoy/doer-cli) ~ a cli tool, as a task management solution.
 2. [GHA CLI](https://github.com/LittleOddBoy/gha-cli) ~ a joke that simply fetches some user data from GitHub API and show it. funny isn't it?
+3. [Guesser CLI](https://github.com/LittleOddBoy/guesser-cli) ~ you bored? try to guess a number right in your terminal!
 
 feel free to contribute on any of them!
