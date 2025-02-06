@@ -5,5 +5,7 @@ here, I've got a list of all the projects that I wrote with Node.js (and mostly 
 1. [Doer CLI](https://github.com/LittleOddBoy/doer-cli) ~ a cli tool, as a task management solution.
 2. [GHA CLI](https://github.com/LittleOddBoy/gha-cli) ~ a joke that simply fetches some user data from GitHub API and show it. funny isn't it?
 3. [Guesser CLI](https://github.com/LittleOddBoy/guesser-cli) ~ you bored? try to guess a number right in your terminal!
+4. [Expense CLI](https://github.com/LittleOddBoy/exp-cli) ~ track your expenses right in your terminal! (feat. [ME-Atish](https://github.com/ME-Atish))
+5. [Todo API](https://github.com/LittleOddBoy/todo-api) ~ a to-do list application, but as API endpoints. (feat. [ME-Atish](https://github.com/ME-Atish))
 
 feel free to contribute on any of them!
