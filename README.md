@@ -7,5 +7,6 @@ here, I've got a list of all the projects that I wrote with Node.js (and mostly 
 3. [Guesser CLI](https://github.com/LittleOddBoy/guesser-cli) ~ you bored? try to guess a number right in your terminal!
 4. [Expense CLI](https://github.com/LittleOddBoy/exp-cli) ~ track your expenses right in your terminal! (feat. [ME-Atish](https://github.com/ME-Atish))
 5. [Todo API](https://github.com/LittleOddBoy/todo-api) ~ a to-do list application, but as API endpoints. (feat. [ME-Atish](https://github.com/ME-Atish))
+6. [LOLO API](https://github.com/LittleOddBoy/lolo-api) ~ a simple RESTful blogging API for your next blog application!
 
 feel free to contribute on any of them!
